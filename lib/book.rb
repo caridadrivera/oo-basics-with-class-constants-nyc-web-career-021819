@@ -12,7 +12,6 @@ GENRES =[]
     puts "Flipping the page...wow, you read fast!"
   end
 
-#create the setter, get the variables and then push the variable value into the array 
 
 def genre=(genre)
   @genre = genre
